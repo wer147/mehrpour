@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>انیمیشن در سی اس اس</title>
+</head>
+<body>
+<p>hello world!</p>
+    <main>
+        <div class="animation"></div>
+        <span class="animation2">animation</span>
+    </main>
+</body>
+</html>
